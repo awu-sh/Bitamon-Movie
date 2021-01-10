@@ -61,7 +61,7 @@ z-index: 100;
 width: 100vw;
 height: 120vh;
 background: #001567;
-/*background: url("/eximages/2021/images/borderbg.png") #001567;
+/*background: url("https://1.bp.blogspot.com/-smvq2EjDS3c/X_uD8ql7tPI/AAAAAAAAAFc/r7qX9qegDhID1zrRnoISvLxiwYlVJXrywCLcBGAsYHQ/s0/borderbg.png") #001567;
 background-size: 8px;*/
 }
 #loader{
@@ -88,7 +88,7 @@ overflow: hidden;
 #main{
 position: relative;
 height: 142.7vw;
-background: url("/eximages/2021/images/main_sp.jpg") top center no-repeat;
+background: url("https://1.bp.blogspot.com/-vHhkMTuAUn4/X_uER2OTFfI/AAAAAAAAAFk/qezqTlahCJgizU78gONSHxV9L6ByHX2DQCLcBGAsYHQ/s0/main_sp.jpg") top center no-repeat;
 background-size: 100%;
 }
 .mainImg{
@@ -208,7 +208,7 @@ margin: 10vw auto;
 
 /*#cts{
 min-height: 100vh;
-background: url("/eximages/2021/images/r_top.png") top center no-repeat, url("/eximages/2021/images/r_btm.png") bottom center no-repeat, url("/eximages/2021/images/cts_bg.jpg") center center no-repeat;
+background: url("https://doraeiga.com/eximages/2021/images/r_top.png") top center no-repeat, url("/eximages/2021/images/r_btm.png") bottom center no-repeat, url("/eximages/2021/images/cts_bg.jpg") center center no-repeat;
 background-attachment:scroll, scroll, fixed;
 background-size: 100%, 100%, cover;
 }*/
@@ -217,7 +217,7 @@ background-size: 100%, 100%, cover;
 position: relative;
 text-align: center;
 overflow: hidden;
-/*background: url("/eximages/2021/images/cts_bg.jpg") center center no-repeat;
+/*background: url("https://doraeiga.com/eximages/2021/images/cts_bg.jpg") center center no-repeat;
 background-attachment:fixed;
 background-size:cover;*/
 }
@@ -230,7 +230,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background: url("/eximages/2021/images/cts_bg.jpg") center center no-repeat;
+background: url("https://doraeiga.com/eximages/2021/images/cts_bg.jpg") center center no-repeat;
 background-size:cover;
 }
 #myCanvas{
@@ -306,7 +306,7 @@ right: -16vw;
 width: 96%;
 width: 100%;
 margin: 5vw auto;
-/*background: url("/eximages/2021/images/waku_head_sp.png") center top no-repeat, url("/eximages/2021/images/waku_foot_sp.png") center bottom no-repeat;
+/*background: url("https://doraeiga.com/eximages/2021/images/waku_head_sp.png") center top no-repeat, url("/eximages/2021/images/waku_foot_sp.png") center bottom no-repeat;
 background-size: 100%;*/
 }
 .wakuParts{
@@ -314,7 +314,7 @@ width: 100%;
 margin: 0;
 }
 .wakuLoop{
-background: url("/eximages/2021/images/waku_mid_sp.png") center top repeat-y;
+background: url("https://doraeiga.com/eximages/2021/images/waku_mid_sp.png") center top repeat-y;
 background-size: 100%;
 padding: 0 12vw;
 }
@@ -381,11 +381,11 @@ margin: -5vw auto;
 margin-bottom: 40vw;
 }
 #charaPapi{
-background: url("/eximages/2021/images/charawaku_papi.png") center no-repeat;
+background: url("https://doraeiga.com/eximages/2021/images/charawaku_papi.png") center no-repeat;
 background-size: 100%;
 }
 #charaRocoroco{
-background: url("/eximages/2021/images/charawaku_rocoroco.png") center no-repeat;
+background: url("https://doraeiga.com/eximages/2021/images/charawaku_rocoroco.png") center no-repeat;
 background-size: 100%;
 }
 .expWrap{
@@ -402,13 +402,13 @@ line-height: 1.7em;
 }
 .ttlHR{
 width: 100%;
-background: url("/eximages/2021/images/hr_border.png") center repeat-x;
+background: url("https://doraeiga.com/eximages/2021/images/hr_border.png") center repeat-x;
 background-size: 2vw;
 height: 4vw;
 }
 hr{
 width: 100%;
-background: url("/eximages/2021/images/hr_border.png") center repeat-x;
+background: url("https://doraeiga.com/eximages/2021/images/hr_border.png") center repeat-x;
 background-size: 2vw 0.3vw;
 height: 9vw;
 }
@@ -496,7 +496,7 @@ cursor: pointer;
 opacity: 1;
 width: 15vw;
 height: 15vw;
-background: url("/eximages/2021/images/btn_close.png") center center no-repeat;
+background: url("https://doraeiga.com/eximages/2021/images/btn_close.png") center center no-repeat;
 background-size: 15vw 15vw;
 -webkit-transition: all 0.2s ease-in-out;
 transition: all 0.2s ease-in-out;
@@ -567,7 +567,7 @@ top: 0;
 left: 0;
 width: 110vw;
 height: 110vh;
-background: url("/eximages/2021/images/borderbg.png");
+background: url("https://doraeiga.com/eximages/2021/images/borderbg.png");
 background-size: 6px;
 display: none;
 }
@@ -645,7 +645,7 @@ padding-bottom: 150px;
 #main{
 width: 1120px;
 height: 584px;
-background: url("/eximages/2021/images/main_pc.jpg") top center no-repeat;
+background: url("https://doraeiga.com/eximages/2021/images/main_pc.jpg") top center no-repeat;
 background-size: 100%;
 }
 #ttl{
@@ -700,7 +700,7 @@ width: 200px;
 margin: 0 auto;
 }
 #menuBTN{
-background: url("/eximages/2021/images/kazari_k.png") center bottom repeat-x;
+background: url("https://doraeiga.com/eximages/2021/images/kazari_k.png") center bottom repeat-x;
 background-size: 2400px;
 margin-top: -44.8px;
 }
@@ -795,11 +795,11 @@ right: -120px;
 .wakuWrap{
 width: 1024px;
 margin: 20px auto;
-/*background: url("/eximages/2021/images/waku_head_sp.png") center top no-repeat, url("/eximages/2021/images/waku_foot_sp.png") center bottom no-repeat;
+/*background: url("https://doraeiga.com/eximages/2021/images/waku_head_sp.png") center top no-repeat, url("/eximages/2021/images/waku_foot_sp.png") center bottom no-repeat;
 background-size: 100%;*/
 }
 .wakuLoop{
-background: url("/eximages/2021/images/waku_mid_pc.png") center top repeat-y;
+background: url("https://doraeiga.com/eximages/2021/images/waku_mid_pc.png") center top repeat-y;
 background-size: 100%;
 padding: 0 100px;
 }
@@ -841,13 +841,13 @@ font-size: 18px;
 }
 .ttlHR{
 width: 100%;
-background: url("/eximages/2021/images/hr_border.png") center repeat-x;
+background: url("https://doraeiga.com/eximages/2021/images/hr_border.png") center repeat-x;
 background-size: 12px;
 height: 20px;
 }
 hr{
 width: 100%;
-background: url("/eximages/2021/images/hr_border.png") center repeat-x;
+background: url("https://doraeiga.com/eximages/2021/images/hr_border.png") center repeat-x;
 background-size: 12px 2px;
 height: 60px;
 }
@@ -903,7 +903,7 @@ right: 20px;
 top: 20px;
 width: 100px;
 height: 100px;
-background: url("/eximages/2021/images/btn_close.png") center center no-repeat;
+background: url("https://doraeiga.com/eximages/2021/images/btn_close.png") center center no-repeat;
 background-size: 100px 100px;
 }
 
@@ -967,7 +967,7 @@ left: 124px;
 #main{
 width: 100%;
 height: 52.14vw;
-background: url("/eximages/2021/images/main_pc.jpg") top center no-repeat;
+background: url("https://doraeiga.com/eximages/2021/images/main_pc.jpg") top center no-repeat;
 background-size: 100%;
 }
 #mainLight{
