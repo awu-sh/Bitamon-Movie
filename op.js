@@ -12,7 +12,7 @@ var player; //見どころ
 var onYouTubeIframeAPIReady = function(){
 
     /*var*/ player4 = new YT.Player("player4", {
-        videoId: "WVGpl0MkHcY", // 予告２のYouTube ID,
+        videoId: "oumrjKbznXw", // 予告２のYouTube ID,
         // ↓引数設定↓
 		  playerVars: {
             rel:0,
@@ -27,7 +27,7 @@ var onYouTubeIframeAPIReady = function(){
     });
 
     /*var*/ player = new YT.Player("player", {
-        videoId: "Ndpd9ojIhtM", // 見どころガイドのYouTube ID,
+        videoId: "oumrjKbznXw", // 見どころガイドのYouTube ID,
         // ↓引数設定↓
 		  playerVars: {
             rel:0,
